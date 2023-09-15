@@ -143,7 +143,7 @@ Jump to second line, position 2
    
 ![image](https://user-images.githubusercontent.com/36288975/226189378-3abbdee2-0df6-470f-a3cd-79c74e3d3ad8.png)
 
-6.select the appropriate pins as gipo, in or out, USART or required options and configure 
+6. Select the appropriate pins as gipo, in or out, USART or required options and configure 
 
 ![image](https://user-images.githubusercontent.com/36288975/226189403-f7179f1a-3eae-4637-826b-ab4ec35ba1e1.png)
 
