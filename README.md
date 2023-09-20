@@ -226,6 +226,11 @@ MX_GPIO_Init();
 
 
 ## Output screenshots of proteus  :
+### Before :
+![pmc exp4](https://github.com/Skanthasishanth/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/118298456/a8f6fb6d-878d-4929-a90c-12a970299380)
+
+
+### After :
 
 ![exp4(1)](https://github.com/Skanthasishanth/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/118298456/542cd787-a878-45fa-a064-60ee186c69b2)
 
